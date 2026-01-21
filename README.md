@@ -1,7 +1,40 @@
-# MLOps Zero to Hero
+# 🚀 MLOps Zero to Hero
 
-Notes for my Udemy course - MLOps Zero to Hero
+Welcome to **MLOps Zero to Hero** — a complete, hands-on repository designed to take you from beginner to industry-ready in Machine Learning Operations (MLOps).
 
-https://www.udemy.com/user/abhishek-veeramalla/?srsltid=AfmBOopEdZFhCNtWblrQcXgZa3LAzdW2Zg7b31Tu6ruW5TQ_GdD0qdOe
+This repo contains structured modules, real-world workflows, and learning resources to help you master the end-to-end MLOps lifecycle — from model development to deployment, monitoring, and automation.
 
-<img width="335" height="339" alt="Screenshot 2025-12-17 at 12 17 51 PM" src="https://github.com/user-attachments/assets/16d7cc92-9973-4b70-b401-9f924bcbfc10" />
+---
+
+## 📚 What You’ll Learn
+
+This repository walks you through:
+
+### 🧠 Fundamentals
+- Introduction to MLOps
+- Role of MLOps in modern ML systems
+- Core principles and best practices
+
+### 🧪 Experimentation & Tracking
+- Versioning and experiment tracking
+- Model evaluation and metrics
+
+### 📦 Model Deployment
+- Serving models using KServe & SageMaker
+- Containerization with Docker
+- Deployment patterns
+
+### 🔁 CI/CD for Models
+- GitHub Actions automation
+- Continuous model training, packaging, and serving
+- Synchronizing deployments using GitOps (Argo CD)
+
+### ☁️ Cloud Integration
+- AWS S3 model storage
+- Service account configurations
+- Production-ready deployment pipelines
+
+---
+
+## 🗂 Repository Structure
+
