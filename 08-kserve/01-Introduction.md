@@ -1,4 +1,4 @@
-# Introduction to KServe
+## Introduction to KServe
 
 Imagine you’ve trained a machine learning model, maybe a classifier, a recommender, or anything else.
 The next big question is: How do you deploy this model so real users or applications can send requests and get predictions?
