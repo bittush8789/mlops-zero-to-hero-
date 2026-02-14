@@ -1,4 +1,4 @@
-## 🚀 MLOps Zero to Hero
+# 🚀 MLOps Zero to Hero
 
 Welcome to **MLOps Zero to Hero** — a complete, hands-on repository designed to take you from beginner to industry-ready in Machine Learning Operations (MLOps).  
 
