@@ -1,4 +1,4 @@
-# Learn DVC using a project
+## Learn DVC using a project
 
 Please refer to the below repository for this lecture.
 
